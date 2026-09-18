@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://B4Ghubai.studio
+View your app in AI Studio: https://b4ghub.ai.studio
 
 ## Run Locally
 
