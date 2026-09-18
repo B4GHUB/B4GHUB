@@ -1,0 +1,6 @@
+{
+  "name": "B4G",
+  "description": "سامانه مدرن و پیشرفته اشتراک و مدیریت کانفیگ‌های پرسرعت B4G با پشتیبانی آنلاین و اشتراک هوشمند",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
